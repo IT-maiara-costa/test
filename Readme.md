@@ -1,3 +1,3 @@
 #GitHub
 
-Este é um repositorio teste, que esta sendo editado
+Este é um repositorio teste, que está sendo editado.
